@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "modId": "speleothemsdroplimestone",
+  "name": "Speleothems drop limestone",
+  "authors": [ "The_Revisionist" ],
+  "description": "Stalactites and stalagmites sometimes drop limestone in addition to their usual stone drop.",
+  "version": "1.0.0",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "Dependencies": {}
+}

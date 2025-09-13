@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/drops/-",
+    "value": {
+      "type": "item",
+      "code": "stone-limestone",
+      "quantity": { "avg": 0, "var": 1 }
+    },
+    "file": "game:blocktypes/stone/stalagsection.json",
+    "side": "Server"
+  }
+]
